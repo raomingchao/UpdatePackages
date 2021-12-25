@@ -1,3 +1,0 @@
-Required PHP version needs to be equal or greater than 5.5.
-All values in Category field in Tickets module will be removed.
-Check scanner's configuration after update
